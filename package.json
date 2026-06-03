@@ -1,0 +1,9 @@
+{
+  "name": "monad-db-io-optimizer",
+  "version": "1.0.0",
+  "description": "Simulation framework for MonadDB asynchronous parallel storage access",
+  "main": "simulateDbIo.js",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
